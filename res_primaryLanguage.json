@@ -1,0 +1,117 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sagar. I am a Full Stack Developer passionate about learning new technologies. I am very much eager to learn new technologies. I am up for any kind of project collaboration. Mail me if you want to collaborate. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Appointo",
+        "startDate": "2022",
+        "description": "Appointment Booking System for Clinics. It helps patient to book appointments in clinics to get rid of standing in line for long time. Also planning to add online doctor consulting to this project.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpeg",
+          "images/portfolio/animal-shelter/p2.jpeg"
+        ],
+        "url": "https://github.com/saggy2001/Appointo/tree/production",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "DineFyne",
+        "startDate": "2020",
+        "description": "DineFyne is a contactless solution that digitizes and enhances customer-facing interaction in restaurants. It helps restaurants in creating digital menu as well as in managing orders. It’s basically a Digital Menu Creator and Order Management System for Restaurants. This project I have done in collaboration with my aluminis as it was a startup idea product that we were planning to launch at that time but we dropped the plan later. I have been co-founding member and full stack developer while working on this product :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://www.dinefyne.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DineFyne",
+        "title": "Co-Founding Member and Full Stack Developer",
+        "years": "07.2021 - 02.2022",
+        "mainTech": [
+          "MERN"
+        ],
+        "technologies": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "TypeScript",
+          "MaterialUI",
+          "Antd"
+        ]
+      },
+      {
+        "company": "TagMango",
+        "title": "Frontend Developer Intern",
+        "years": "11.2021 - 01.2022",
+        "mainTech": [
+          "HTML, CSS, JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS"
+        ]
+      },
+      {
+        "company": "RMgX Technologies",
+        "title": "SDE Intern",
+        "years": "10.2022 - 12.2022",
+        "mainTech": [
+          "React JSS"
+        ],
+        "technologies": [
+          "ReactJS",
+          "TypeScript",
+          "React Native",
+          "NextJS"
+        ]
+      },
+      {
+        "company": "Urban Ladder",
+        "title": "SDE Intern",
+        "years": "01.2023 - PRESENT",
+        "mainTech": [
+          "Ruby on Rails"
+        ],
+        "technologies": [
+          "Ruby",
+          "Ruby On Rails"
+        ]
+      }
+    ]
+  }

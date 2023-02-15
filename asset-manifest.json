@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sagar/static/css/main.70e1369f.chunk.css",
+    "main.js": "/sagar/static/js/main.b0e55590.chunk.js",
+    "main.js.map": "/sagar/static/js/main.b0e55590.chunk.js.map",
+    "runtime-main.js": "/sagar/static/js/runtime-main.9481efca.js",
+    "runtime-main.js.map": "/sagar/static/js/runtime-main.9481efca.js.map",
+    "static/css/2.d64471e2.chunk.css": "/sagar/static/css/2.d64471e2.chunk.css",
+    "static/js/2.0dd9bf5e.chunk.js": "/sagar/static/js/2.0dd9bf5e.chunk.js",
+    "static/js/2.0dd9bf5e.chunk.js.map": "/sagar/static/js/2.0dd9bf5e.chunk.js.map",
+    "index.html": "/sagar/index.html",
+    "precache-manifest.763634a575cd9547185d1af04fd0f1db.js": "/sagar/precache-manifest.763634a575cd9547185d1af04fd0f1db.js",
+    "service-worker.js": "/sagar/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/sagar/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.70e1369f.chunk.css.map": "/sagar/static/css/main.70e1369f.chunk.css.map",
+    "static/js/2.0dd9bf5e.chunk.js.LICENSE.txt": "/sagar/static/js/2.0dd9bf5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9481efca.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.0dd9bf5e.chunk.js",
+    "static/css/main.70e1369f.chunk.css",
+    "static/js/main.b0e55590.chunk.js"
+  ]
+}
