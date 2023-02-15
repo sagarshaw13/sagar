@@ -71,6 +71,7 @@ class App extends Component {
       cache: false,
       success: function (data) {
         this.setState({ sharedData: data });
+        console.log(data);
         document.title = `${this.state.sharedData.basic_info.name}`;
       }.bind(this),
       error: function (xhr, status, err) {
@@ -101,12 +102,12 @@ class App extends Component {
             ></span>
           </div>
           <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$secondaryLanguage,
-                window.$primaryLanguageIconId
-              )
-            }
+            // onClick={() =>
+            //   this.applyPickedLanguage(
+            //     window.$secondaryLanguage,
+            //     window.$primaryLanguageIconId
+            //   )
+            // }
             style={{ display: "inline" }}
           >
             <span
